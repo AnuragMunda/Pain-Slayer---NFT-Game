@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Click to view project : https://t.co/mf0USYEe3Z?amp=1
 
 
-https://user-images.githubusercontent.com/87273737/140965557-d7acd97f-6a0e-44f7-bf2d-11c683dc650b.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/87273737/140967611-8d3e4545-8f35-4b36-94cb-01379e763e01.gif)
 
 
 ## Running on Repl.it
