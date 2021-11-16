@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Click to view project : https://t.co/mf0USYEe3Z?amp=1
+Click [here](https://t.co/mf0USYEe3Z?amp=1) to view the project live.
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87273737/140967611-8d3e4545-8f35-4b36-94cb-01379e763e01.gif)
